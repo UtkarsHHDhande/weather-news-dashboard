@@ -67,9 +67,9 @@ License 📝
 MIT License - see the LICENSE.md file for details
 
 Screenshots 📸
-![Dashboard Image](public\assets\Screenshot-1.png)
-![Dashboard Image](public\assets\Screenshot-2.png)
-![Dashboard Image](public\assets\Screenshot-3.png)
+![Dashboard Image](./public/assets/Screenshot-1.png)
+![Dashboard Image](./public/assets/Screenshot-2.png)
+![Dashboard Image](./public/assets/Screenshot-3.png)
 
 
 Contact 📧
